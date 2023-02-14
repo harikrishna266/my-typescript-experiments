@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bece506-31be-4305-9f64-769e87fc0cf0" name="Changes" comment="simple function">
-      <change afterPath="$PROJECT_DIR$/src/generrics.ts" afterDir="false" />
+    <list default="true" id="1bece506-31be-4305-9f64-769e87fc0cf0" name="Changes" comment="generics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/key-of.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/key-of.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676335947052</updated>
-      <workItem from="1676335948141" duration="4483000" />
+      <workItem from="1676335948141" duration="5033000" />
     </task>
     <task id="LOCAL-00001" summary="simple function">
       <created>1676337648521</created>
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676341666855</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="generics">
+      <created>1676343766087</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676343766087</updated>
+    </task>
+    <task id="LOCAL-00005" summary="generics">
+      <created>1676343925022</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676343925022</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +89,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="simple function" />
-    <option name="LAST_COMMIT_MESSAGE" value="simple function" />
+    <MESSAGE value="generics" />
+    <option name="LAST_COMMIT_MESSAGE" value="generics" />
   </component>
 </project>
